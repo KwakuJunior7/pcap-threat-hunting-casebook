@@ -1,0 +1,16 @@
+# Never commit real captures or extracted malware
+*.pcap
+*.pcapng
+*.cap
+*.zip
+exports/
+extracted/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Local outputs
+triage*.md
+!docs/sample-triage-report.md
+iocs*.csv
+*.json
