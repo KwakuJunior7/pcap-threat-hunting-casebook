@@ -1,7 +1,7 @@
 # PCAP Threat Hunting Casebook
 
 ![tests](https://github.com/Kwakujunior7/pcap-threat-hunting-casebook/actions/workflows/tests.yml/badge.svg)
-![python](https://img.shields.io/badge/python-3.9%2B-blue)
+![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![deps](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 Network forensics case studies from real-world style malware traffic, plus a zero-dependency Python tool that automates the first pass of every investigation.
